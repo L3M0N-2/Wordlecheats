@@ -36,7 +36,7 @@ if you entered 'y'
 1) it will then ask "what place is tested? (1-5)"
 2) enter the place of the letter -- for the first letter, enter 1, for the second, 2 ... for the fifth, 5. 
 3) it will also ask "is position correct? (Y/N)" 
-4) if the letter is colored green, enter 'y'. if the letter is colored grey, enter 'n' 
+4) if the letter is colored green, enter 'y'. if the letter is colored yellow, enter 'n' 
 5) either way, you will receive a list with all of the possible words that either contains the letter (in case of yellow) or contains the letter at the correct spot (in case of green). 
 6) before your next try with a guess, repeat these steps for the next four letters in your first guess. 
 7) you should see that the number of possible answer words should drastically decrease as you enter in all five letters from your first guess. 
