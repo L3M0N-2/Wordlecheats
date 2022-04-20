@@ -6,12 +6,15 @@ Read below to find suggestions about how to best utilize the code -- consistant 
 Word bank retrieved from: https://github.com/seanpatlan/wordle-words/blob/main/word-bank.csv 
 
 .........................................
+
 One method to get relatively good results: 
 
 First guess: CRANE 
+
 (Second guess: MOIST)  --- if "CRANE" does not yield good feedback after you process the results with the code 
 
 .........................................
+
 How to use this code: 
 
 ------GENERAL RULE OF WORDLE------
